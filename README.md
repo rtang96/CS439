@@ -1,2 +1,2 @@
-# CS439
+# CS347
 SQL Items
